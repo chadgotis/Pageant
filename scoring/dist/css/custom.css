@@ -1,0 +1,10 @@
+@font-face {
+font-family: "Elegant";
+src: url("fonts/Elegant/Elegant.ttf");
+}
+.name {
+	font-family: Elegant ;
+	font-size: 3em;
+	font-color: red;
+}
+
